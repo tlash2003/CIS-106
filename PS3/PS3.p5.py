@@ -19,7 +19,7 @@ if inc_tax < 0:
 #output phase
 
 print("The last name is: ", last_name)
-print("The gross income is: ", gross_income)
-print("The number of dependents is: ", no_of_dep)
-print("The adjusted gross income is: ", adj_gross_inc)
-print("The income tax is: ", inc_tax)
+print("The gross income is:$", gross_income)
+print("The number of dependents is:", no_of_dep)
+print("The adjusted gross income is:$", adj_gross_inc)
+print("The income tax is:$", inc_tax)
