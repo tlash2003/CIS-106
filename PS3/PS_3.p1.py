@@ -18,8 +18,8 @@ total_price = ext_price + tax
 #output phase
 
 print ("The quantity is: ", quantity)
-print ("The unit price is: ", unit_price)
-print ("The extended price is: ", ext_price)
-print ("The tax is: ", tax)
-print ("The total price is: ", total_price)
+print ("The unit price is:$", unit_price)
+print ("The extended price is:$", ext_price)
+print ("The tax is:$", tax)
+print ("The total price is:$", total_price)
 
