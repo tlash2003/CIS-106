@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="pronlem 6 question 1"/>
+        <attribute name="authors" value="tbabe"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-01-28 01:41:53 PM"/>
+        <attribute name="created" value="dGJhYmU7TEFTRTsyMDI1LTAxLTI4OzAxOjI5OjMzIFBNOzIwODU="/>
+        <attribute name="edited" value="dGJhYmU7TEFTRTsyMDI1LTAxLTI4OzAxOjQxOjUzIFBNOzE7MjE4OQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="num" type="Integer" array="False" size=""/>
+            <assign variable="num" expression="1"/>
+            <while expression="num &lt;= 25">
+                <output expression="num" newline="True"/>
+                <assign variable="num" expression="num+2"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
