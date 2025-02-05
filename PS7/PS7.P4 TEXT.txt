@@ -1,0 +1,9 @@
+widget 
+10
+50
+hammer
+2
+10
+saw
+4
+8
